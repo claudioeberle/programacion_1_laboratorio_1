@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521471145 source:c:\test\eberle\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+
