@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521643140 source:c:\users\ceberle_mecon\desktop\programacion\programacion_1_laboratorio_1-master\eberle\if\if1\main.c
+	<stdio.h>
+	<stdlib.h>
+

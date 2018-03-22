@@ -76,7 +76,7 @@ int main()
             suma+=numero;
 
             printf("Para continuar ingresando números escriba s \n");
-            continuar = getch();
+            continuar = getche();
 
 
 
