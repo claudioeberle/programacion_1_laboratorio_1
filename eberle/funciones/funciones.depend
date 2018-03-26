@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522076238 source:c:\test\eberle\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
