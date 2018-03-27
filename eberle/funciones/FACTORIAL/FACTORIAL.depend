@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522158649 source:c:\test\eberle\funciones\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

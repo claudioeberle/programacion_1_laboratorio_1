@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522161848 source:c:\test\eberle\calculadora tp\calculadora tp\funciones.c
+
+1522161811 source:c:\test\eberle\calculadora tp\calculadora tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1522161811 c:\test\eberle\calculadora tp\calculadora tp\funciones.h
+
