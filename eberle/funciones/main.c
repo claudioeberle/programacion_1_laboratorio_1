@@ -20,7 +20,7 @@ int main()
     mostrar();
 
     num1=pediryleer(0, 100);
-    char pediroperador (void);
+    operador=pediroperador();
     num2=pediryleer(0, 100);
 
     printf("%d", num1);
@@ -31,7 +31,7 @@ int main()
 
     resultado = calculo(num1, operador, num2);
 
-    printf("%f", resultado);
+    printf("%.2f", resultado);
 
     return 0;
 }
@@ -62,7 +62,7 @@ void mostrar(void)
 
 void pedir (void)
 {
-    printf("Ingrese un número: ");
+    printf("\nIngrese un número: ");
 }
 
 int leer(void)
@@ -99,6 +99,8 @@ char pediroperador (void) // pide operador valido entre (+ - *  /)
     while(operador !='+' && operador !='-' && operador !='*' && operador !='/')
     {
             printf("\nIngrese operador: ");
+            operador=getche();
+
     }
 
     return operador;
